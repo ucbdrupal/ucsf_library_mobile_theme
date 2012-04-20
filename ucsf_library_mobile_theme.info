@@ -1,0 +1,8 @@
+name = "UCSF Library Mobile"
+description = "Theme for the mobile UCSF Library site."
+core = "6.x"
+engine = phptemplate
+php = 5.3.0
+version = "6.x-1.0-dev"
+
+regions[content] = "Content"
